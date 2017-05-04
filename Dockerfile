@@ -1,4 +1,4 @@
-FROM openjdk:7
+FROM openjdk:8
 EXPOSE 8080 8888
 RUN pwd
 RUN mkdir bhawani
